@@ -1,9 +1,3 @@
-- title: Honors
-  time:
-  location:
-  leader_name: Michael Augspurger
-  leader_email: mga9177@rit.edu
-
 - title: Adventure/Outdoors/Sports
   time: Sundays 1pm
   location: Campus Center Room 1015
@@ -18,13 +12,13 @@
 
 - title: Graduate
   time: Mondays 7pm 
-  location: Reading Room
+  location: Campus Center Reading Room
   leader_name: Eric Fortunato
   leader_email: fortunato.eric@gmail.com
 
 - title: Fitness
-  time:
-  location:
+  time: Thursdays 6pm
+  location: Campus Center Room 1010
   leader_name: Tin Seekaew
   leader_email: txs4443@rit.edu
 
@@ -53,10 +47,10 @@
   leader_email: jmw7090@rit.edu
 
 - title: Campus Mandarin Fellowship
-  time: 
-  location:
+  time: Thursdays 8pm
+  location: Res Hall B ABC Family Room
   leader_name: Rachel Du
-  leader_email:
+  leader_email: rxd6641@rit.edui
 
 - title: Faculty/Commuter
   time: Tuesdays 12-1pm
