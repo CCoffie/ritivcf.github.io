@@ -30,7 +30,7 @@
 
 - churchname: The Father's House
   time: Saturday 6PM & Sunday 9:30AM, 11:30AM
-  website: "http://www.tfhny.org/" 
+  website: "http://www.tfhny.org/"
   ridespoc_name: Doug Smith
   ridespoc_email: doug.smith525@gmail.com
 
@@ -51,3 +51,9 @@
   website: "http://www.ridgelandchurch.org/"
   ridespoc_name: Noah Schadt
   ridespoc_email: nxs6178@rit.edu
+
+- churchname: Rochester Chinese Christian Church West
+  time: Sunday 4PM
+  website: http://rochesterccc.org/
+  ridespoc_name: Rachel Du
+  ridespoc_email: rxd6641@rit.edu
